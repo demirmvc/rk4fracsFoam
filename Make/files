@@ -1,0 +1,2 @@
+rk4fracsFoam.C
+EXE = $(FOAM_USER_APPBIN)/rk4fracsFoam

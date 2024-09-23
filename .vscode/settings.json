@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pimpleFoam.C": "cpp",
+        "rk4fracsFoam.C": "cpp"
+    }
+}
